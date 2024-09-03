@@ -1,0 +1,166 @@
+*
+{
+    margin: 0;
+}
+#nombre
+{
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+h1
+{
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
+#teddy
+{
+    display: flex;
+    position: relative;
+    top: 20px;
+    left: 500px;
+    width: 500px;
+    height: 800px;
+    background-color: #333;
+}
+#oreja1
+{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 16%;
+    top: 2%; 
+}
+#oreja2
+{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 68%;
+    top: 2%; 
+}
+.cara
+{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 20%;
+    top: 5%;
+}
+#ojo1
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: black;
+    left: 16%;
+    top: 30%;  
+}
+#ojo2
+{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: black;
+    left: 69%;
+    top: 30%;  
+}
+#nariz
+{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    background-color: black;
+    left: 42%;
+    top: 40%; 
+}
+#brillo
+{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+    background-color: white; 
+    top: 25%;
+    left: 20%;
+}
+#boca
+{
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: black;
+    left: 37%;
+    top: 70%;
+}
+.cuerpo
+{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 9%;
+    top: 43%;
+}
+#panza
+{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-color:bisque; 
+    left: 25%;
+    top: 20%;
+}
+#brazo1
+{
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 81%;
+    top: 50%;
+}
+#brazo2
+{
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 1%;
+    top: 50%;
+}
+#pierna1
+{
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 80%;
+    top: 87%;
+}
+#pierna2
+{
+    position: absolute;
+    width: 80px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: peru;
+    left: 2%;
+    top: 87%;
+}
